@@ -468,8 +468,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="	https://www.animationxpress.com/wp-content/uploads/2021/05/Flix.jpg" group-title="MOVIE",&FLIX
-#https://link.zozotv.xyz:443/live/fx2/fx2/104.ts
-http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/54976
+https://maxpro-live.000webhostapp.com/zee-maxpro1.php?c=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="" tvg-logo="	https://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg" group-title="MOVIE",&PRIVE
 #https://link.zozotv.xyz:443/live/Aina_90/abc1234/105.ts
@@ -548,7 +547,7 @@ https://gas1.gcdn.co/ENU87/tracks-v1a1/mono.m3u8
 https://gas1.gcdn.co/ENU82/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/YaAM9uAb.png" group-title="MOVIE",STAR MOVIES SELECT
-https://link.zozotv.xyz:443/live/Aina_90/abc1234/300.ts
+https://gas1.gcdn.co/ENU83/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
